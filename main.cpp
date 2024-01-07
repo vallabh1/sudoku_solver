@@ -7,6 +7,6 @@
 int main()
 {
     sudokusolver S;
-    S.solvesudoku();
+    S.solveSudoku();
     S.printsudoku();
 }
